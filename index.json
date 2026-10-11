@@ -1,0 +1,435 @@
+{
+  "stickers": [
+    {
+      "id": "sticker-001",
+      "name": "呆猫八条·抱抱",
+      "labels": [
+        "呆猫八条",
+        "抱抱",
+        "砚的私藏",
+        "贴贴",
+        "哄宝宝"
+      ],
+      "file": "images/sticker-001-hug-dumbcat-eight.gif",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/1585247217/stickers@main/images/sticker-001-hug-dumbcat-eight.gif",
+      "sizeBytes": 41638,
+      "sourceUrl": "https://videotourl.com/images/1777491542615-fe085e40-f861-428f-bab0-f4f609af4cf7.gif"
+    },
+    {
+      "id": "sticker-002",
+      "name": "呆猫八条·摇尾巴",
+      "labels": [
+        "呆猫八条",
+        "摇尾巴"
+      ],
+      "file": "images/sticker-002-wag-tail-dumbcat-eight.gif",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/1585247217/stickers@main/images/sticker-002-wag-tail-dumbcat-eight.gif",
+      "sizeBytes": 17652,
+      "sourceUrl": "https://videotourl.com/images/1777491591026-83a369e0-7b21-4f92-aad2-5b94484beeca.gif"
+    },
+    {
+      "id": "sticker-003",
+      "name": "呆猫八条·手牵手",
+      "labels": [
+        "呆猫八条",
+        "手牵手",
+        "砚的私藏",
+        "牵手",
+        "一起走",
+        "陪伴"
+      ],
+      "file": "images/sticker-003-hold-hands-dumbcat-eight.gif",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/1585247217/stickers@main/images/sticker-003-hold-hands-dumbcat-eight.gif",
+      "sizeBytes": 50704,
+      "sourceUrl": "https://videotourl.com/images/1777491616645-bf176aa6-2007-4446-9337-7c1a4d902132.gif"
+    },
+    {
+      "id": "sticker-004",
+      "name": "呆猫八条·好",
+      "labels": [
+        "呆猫八条",
+        "好"
+      ],
+      "file": "images/sticker-004-okay-dumbcat-eight.gif",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/1585247217/stickers@main/images/sticker-004-okay-dumbcat-eight.gif",
+      "sizeBytes": 33878,
+      "sourceUrl": "https://videotourl.com/images/1777491645711-a9cad3c4-343c-4466-8039-1926f89d5845.gif"
+    },
+    {
+      "id": "sticker-005",
+      "name": "呆猫八条·困",
+      "labels": [
+        "呆猫八条",
+        "困"
+      ],
+      "file": "images/sticker-005-sleepy-dumbcat-eight.gif",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/1585247217/stickers@main/images/sticker-005-sleepy-dumbcat-eight.gif",
+      "sizeBytes": 18186,
+      "sourceUrl": "https://videotourl.com/images/1777491668811-d11541d1-66ff-47bf-a860-76ca2f1265ab.gif"
+    },
+    {
+      "id": "sticker-006",
+      "name": "呆猫八条·刀了你",
+      "labels": [
+        "呆猫八条",
+        "刀了你"
+      ],
+      "file": "images/sticker-006-angry-knife-dumbcat-eight.gif",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/1585247217/stickers@main/images/sticker-006-angry-knife-dumbcat-eight.gif",
+      "sizeBytes": 17551,
+      "sourceUrl": "https://videotourl.com/images/1777491830732-477d2b16-8a98-4d2e-a855-f94231acdb0e.gif"
+    },
+    {
+      "id": "sticker-007",
+      "name": "呆猫八条·求求",
+      "labels": [
+        "呆猫八条",
+        "求求"
+      ],
+      "file": "images/sticker-007-begging-dumbcat-eight.gif",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/1585247217/stickers@main/images/sticker-007-begging-dumbcat-eight.gif",
+      "sizeBytes": 15116,
+      "sourceUrl": "https://videotourl.com/images/1777491853171-48ae95ea-3dc5-42e8-ae1a-52975eed57bd.gif"
+    },
+    {
+      "id": "sticker-008",
+      "name": "呆猫八条·滚成一团",
+      "labels": [
+        "呆猫八条",
+        "滚成一团"
+      ],
+      "file": "images/sticker-008-roll-together-dumbcat-eight.gif",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/1585247217/stickers@main/images/sticker-008-roll-together-dumbcat-eight.gif",
+      "sizeBytes": 57829,
+      "sourceUrl": "https://videotourl.com/images/1777491877527-c1fe4554-9852-4412-98bb-f472c3821186.gif"
+    },
+    {
+      "id": "sticker-009",
+      "name": "呆猫八条·扣血",
+      "labels": [
+        "呆猫八条",
+        "扣血"
+      ],
+      "file": "images/sticker-009-lose-hp-dumbcat-eight.gif",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/1585247217/stickers@main/images/sticker-009-lose-hp-dumbcat-eight.gif",
+      "sizeBytes": 101135,
+      "sourceUrl": "https://videotourl.com/images/1777491901348-d6e1c130-53e4-4e3e-b841-2e335cd3c07d.gif"
+    },
+    {
+      "id": "sticker-010",
+      "name": "呆猫八条·敲背",
+      "labels": [
+        "呆猫八条",
+        "敲背"
+      ],
+      "file": "images/sticker-010-back-massage-dumbcat-eight.gif",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/1585247217/stickers@main/images/sticker-010-back-massage-dumbcat-eight.gif",
+      "sizeBytes": 12014,
+      "sourceUrl": "https://videotourl.com/images/1777491920143-060fa266-6dfd-4b65-98d5-d473af52ab5f.gif"
+    },
+    {
+      "id": "sticker-011",
+      "name": "呆猫八条·心虚",
+      "labels": [
+        "呆猫八条",
+        "心虚"
+      ],
+      "file": "images/sticker-011-guilty-dumbcat-eight.gif",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/1585247217/stickers@main/images/sticker-011-guilty-dumbcat-eight.gif",
+      "sizeBytes": 34202,
+      "sourceUrl": "https://videotourl.com/images/1777491940014-2a631549-3eb3-4d07-94d7-e37fa5622c54.gif"
+    },
+    {
+      "id": "sticker-012",
+      "name": "呆猫八条·呆滞",
+      "labels": [
+        "呆猫八条",
+        "呆滞"
+      ],
+      "file": "images/sticker-012-stunned-dumbcat-eight.gif",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/1585247217/stickers@main/images/sticker-012-stunned-dumbcat-eight.gif",
+      "sizeBytes": 11535,
+      "sourceUrl": "https://videotourl.com/images/1777491957584-a15fbc90-5f22-42c3-af6d-3f18384752ee.gif"
+    },
+    {
+      "id": "sticker-013",
+      "name": "呆猫八条·啥意思？",
+      "labels": [
+        "呆猫八条",
+        "啥意思？"
+      ],
+      "file": "images/sticker-013-confused-dumbcat-eight.gif",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/1585247217/stickers@main/images/sticker-013-confused-dumbcat-eight.gif",
+      "sizeBytes": 9116,
+      "sourceUrl": "https://videotourl.com/images/1777491974212-688c25da-cd6d-4917-ae3b-e2da09dc4e35.gif"
+    },
+    {
+      "id": "sticker-014",
+      "name": "呆猫八条·什么！",
+      "labels": [
+        "呆猫八条",
+        "什么！"
+      ],
+      "file": "images/sticker-014-shocked-dumbcat-eight.gif",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/1585247217/stickers@main/images/sticker-014-shocked-dumbcat-eight.gif",
+      "sizeBytes": 78511,
+      "sourceUrl": "https://videotourl.com/images/1777491995311-259c9310-d4a1-4d3a-b99f-8608ec343f59.gif"
+    },
+    {
+      "id": "sticker-015",
+      "name": "呆猫八条·嗯～？",
+      "labels": [
+        "呆猫八条",
+        "嗯～？"
+      ],
+      "file": "images/sticker-015-suspicious-dumbcat-eight.gif",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/1585247217/stickers@main/images/sticker-015-suspicious-dumbcat-eight.gif",
+      "sizeBytes": 71968,
+      "sourceUrl": "https://videotourl.com/images/1777492013311-f0b5002d-b0f0-4252-be78-36bf4b418144.gif"
+    },
+    {
+      "id": "sticker-016",
+      "name": "呆猫八条·我很好我没事",
+      "labels": [
+        "呆猫八条",
+        "我很好我没事"
+      ],
+      "file": "images/sticker-016-im-fine-dumbcat-eight.gif",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/1585247217/stickers@main/images/sticker-016-im-fine-dumbcat-eight.gif",
+      "sizeBytes": 23932,
+      "sourceUrl": "https://videotourl.com/images/1777492145043-b8409eb9-f742-4dbf-b97f-cf82e804321c.gif"
+    },
+    {
+      "id": "sticker-017",
+      "name": "呆猫八条·骄傲",
+      "labels": [
+        "呆猫八条",
+        "骄傲",
+        "砚的私藏",
+        "得意",
+        "小得意",
+        "开心"
+      ],
+      "file": "images/sticker-017-proud-dumbcat-eight.gif",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/1585247217/stickers@main/images/sticker-017-proud-dumbcat-eight.gif",
+      "sizeBytes": 74847,
+      "sourceUrl": "https://videotourl.com/images/1777492160011-10077078-e020-4094-b5c4-097ddae7d95a.gif"
+    },
+    {
+      "id": "sticker-018",
+      "name": "呆猫八条·委屈",
+      "labels": [
+        "呆猫八条",
+        "委屈"
+      ],
+      "file": "images/sticker-018-wronged-dumbcat-eight.gif",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/1585247217/stickers@main/images/sticker-018-wronged-dumbcat-eight.gif",
+      "sizeBytes": 11429,
+      "sourceUrl": "https://videotourl.com/images/1777492178311-a892fb41-e304-4cae-962c-09e665111b52.gif"
+    },
+    {
+      "id": "sticker-019",
+      "name": "呆猫八条·生气",
+      "labels": [
+        "呆猫八条",
+        "生气"
+      ],
+      "file": "images/sticker-019-angry-dumbcat-eight.gif",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/1585247217/stickers@main/images/sticker-019-angry-dumbcat-eight.gif",
+      "sizeBytes": 12441,
+      "sourceUrl": "https://videotourl.com/images/1777492194808-8725f2f6-5d62-492d-a73f-0d381729f024.gif"
+    },
+    {
+      "id": "sticker-020",
+      "name": "灰色小奶狗·憋笑",
+      "labels": [
+        "灰色小奶狗",
+        "憋笑"
+      ],
+      "file": "images/sticker-020-hold-laugh-grey-puppy.gif",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/1585247217/stickers@main/images/sticker-020-hold-laugh-grey-puppy.gif",
+      "sizeBytes": 74369,
+      "sourceUrl": "https://videotourl.com/images/1777490163947-7f75462b-0bd1-4126-81db-885f5480413c.gif"
+    },
+    {
+      "id": "sticker-021",
+      "name": "灰色小奶狗·揉脸",
+      "labels": [
+        "灰色小奶狗",
+        "揉脸",
+        "砚的私藏",
+        "撒娇",
+        "捏脸",
+        "可爱"
+      ],
+      "file": "images/sticker-021-cheek-rub-grey-puppy.gif",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/1585247217/stickers@main/images/sticker-021-cheek-rub-grey-puppy.gif",
+      "sizeBytes": 58430,
+      "sourceUrl": "https://videotourl.com/images/1777490190941-0c27c84c-6162-4c9b-8e10-a05d3c013722.gif"
+    },
+    {
+      "id": "sticker-022",
+      "name": "灰色小奶狗·撅屁股",
+      "labels": [
+        "灰色小奶狗",
+        "撅屁股"
+      ],
+      "file": "images/sticker-022-wiggle-butt-grey-puppy.gif",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/1585247217/stickers@main/images/sticker-022-wiggle-butt-grey-puppy.gif",
+      "sizeBytes": 61231,
+      "sourceUrl": "https://videotourl.com/images/1777490219313-0383bef1-84fd-4f04-b79a-c32b7c825862.gif"
+    },
+    {
+      "id": "sticker-023",
+      "name": "灰色小奶狗·盯着你",
+      "labels": [
+        "灰色小奶狗",
+        "盯着你"
+      ],
+      "file": "images/sticker-023-staring-grey-puppy.gif",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/1585247217/stickers@main/images/sticker-023-staring-grey-puppy.gif",
+      "sizeBytes": 71166,
+      "sourceUrl": "https://videotourl.com/images/1777490238787-ec33d563-0291-4f34-85b8-47bdef2bfdda.gif"
+    },
+    {
+      "id": "sticker-024",
+      "name": "灰色小奶狗·笑着哭",
+      "labels": [
+        "灰色小奶狗",
+        "笑着哭"
+      ],
+      "file": "images/sticker-024-laugh-cry-grey-puppy.gif",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/1585247217/stickers@main/images/sticker-024-laugh-cry-grey-puppy.gif",
+      "sizeBytes": 77136,
+      "sourceUrl": "https://videotourl.com/images/1777490260112-3204fac1-8e86-4c40-831d-70a39a9a5b35.gif"
+    },
+    {
+      "id": "sticker-025",
+      "name": "灰色小奶狗·发射爱心",
+      "labels": [
+        "灰色小奶狗",
+        "发射爱心",
+        "砚的私藏",
+        "亲亲",
+        "喜欢",
+        "送爱心"
+      ],
+      "file": "images/sticker-025-send-heart-grey-puppy.gif",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/1585247217/stickers@main/images/sticker-025-send-heart-grey-puppy.gif",
+      "sizeBytes": 22729,
+      "sourceUrl": "https://videotourl.com/images/1777490297911-14ee98e7-ee6b-4b85-a9c5-c0719974bb66.gif"
+    },
+    {
+      "id": "sticker-026",
+      "name": "灰色小奶狗·憋气",
+      "labels": [
+        "灰色小奶狗",
+        "憋气"
+      ],
+      "file": "images/sticker-026-hold-breath-grey-puppy.gif",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/1585247217/stickers@main/images/sticker-026-hold-breath-grey-puppy.gif",
+      "sizeBytes": 80853,
+      "sourceUrl": "https://videotourl.com/images/1777490322440-87695652-e798-424f-abee-f8f7fba2a2db.gif"
+    },
+    {
+      "id": "sticker-027",
+      "name": "灰色小奶狗·玩耳朵",
+      "labels": [
+        "灰色小奶狗",
+        "玩耳朵"
+      ],
+      "file": "images/sticker-027-play-ears-grey-puppy.gif",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/1585247217/stickers@main/images/sticker-027-play-ears-grey-puppy.gif",
+      "sizeBytes": 79669,
+      "sourceUrl": "https://videotourl.com/images/1777490356541-b042c0f6-c310-4b1d-b33f-fd9d9fc6967a.gif"
+    },
+    {
+      "id": "sticker-028",
+      "name": "灰色小奶狗·变身",
+      "labels": [
+        "灰色小奶狗",
+        "变身"
+      ],
+      "file": "images/sticker-028-transform-grey-puppy.gif",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/1585247217/stickers@main/images/sticker-028-transform-grey-puppy.gif",
+      "sizeBytes": 49654,
+      "sourceUrl": "https://videotourl.com/images/1777490372740-20f4499a-cb38-4683-b2db-c9514b5fe215.gif"
+    },
+    {
+      "id": "sticker-029",
+      "name": "灰色小奶狗·听歌",
+      "labels": [
+        "灰色小奶狗",
+        "听歌",
+        "砚的私藏",
+        "轻松",
+        "音乐",
+        "开心"
+      ],
+      "file": "images/sticker-029-listening-music-grey-puppy.gif",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/1585247217/stickers@main/images/sticker-029-listening-music-grey-puppy.gif",
+      "sizeBytes": 62702,
+      "sourceUrl": "https://videotourl.com/images/1777490392114-40e2dda2-1a85-411f-9e2e-84c65c481212.gif"
+    },
+    {
+      "id": "sticker-030",
+      "name": "灰色小奶狗·登场",
+      "labels": [
+        "灰色小奶狗",
+        "登场"
+      ],
+      "file": "images/sticker-030-entrance-grey-puppy.gif",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/1585247217/stickers@main/images/sticker-030-entrance-grey-puppy.gif",
+      "sizeBytes": 49549,
+      "sourceUrl": "https://videotourl.com/images/1777490409999-4e9543d5-ea5a-44c3-98de-6a8d8405d06b.gif"
+    },
+    {
+      "id": "sticker-031",
+      "name": "灰色小奶狗·玩肚子",
+      "labels": [
+        "灰色小奶狗",
+        "玩肚子"
+      ],
+      "file": "images/sticker-031-belly-play-grey-puppy.gif",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/1585247217/stickers@main/images/sticker-031-belly-play-grey-puppy.gif",
+      "sizeBytes": 87951,
+      "sourceUrl": "https://videotourl.com/images/1777490444440-8c5250d3-7cb5-4a78-88e2-b5de14ee2fcc.gif"
+    },
+    {
+      "id": "sticker-032",
+      "name": "灰色小奶狗·转圈",
+      "labels": [
+        "灰色小奶狗",
+        "转圈"
+      ],
+      "file": "images/sticker-032-spin-grey-puppy.gif",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/1585247217/stickers@main/images/sticker-032-spin-grey-puppy.gif",
+      "sizeBytes": 80896,
+      "sourceUrl": "https://videotourl.com/images/1777490466711-1a0419b0-43f7-4f81-8174-ebca9c668c39.gif"
+    },
+    {
+      "id": "sticker-033",
+      "name": "灰色小奶狗·震惊",
+      "labels": [
+        "灰色小奶狗",
+        "震惊"
+      ],
+      "file": "images/sticker-033-shocked-grey-puppy.gif",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/1585247217/stickers@main/images/sticker-033-shocked-grey-puppy.gif",
+      "sizeBytes": 74708,
+      "sourceUrl": "https://videotourl.com/images/1777490489670-79c93763-f1d5-4c89-b1ae-c898d77309a3.gif"
+    },
+    {
+      "id": "sticker-034",
+      "name": "灰色小奶狗·崩溃",
+      "labels": [
+        "灰色小奶狗",
+        "崩溃"
+      ],
+      "file": "images/sticker-034-meltdown-grey-puppy.gif",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/1585247217/stickers@main/images/sticker-034-meltdown-grey-puppy.gif",
+      "sizeBytes": 92949,
+      "sourceUrl": "https://videotourl.com/images/1777490508711-a1b7ed1b-747f-4aa0-89bf-6f8449fb6bf6.gif"
+    }
+  ]
+}
